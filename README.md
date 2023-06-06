@@ -1,1 +1,1 @@
-# Quantiztion Aware Training using Tensorflow2-Keras
+# Quantiztion Aware Training based on Tensorflow2-Keras
